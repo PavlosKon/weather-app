@@ -1,0 +1,47 @@
+body {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	background-image: url('../img/background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+ 
+h1 {
+	text-align: center;
+	font-size: 3rem;
+	margin-top: 2rem;
+	color: rgb(0, 89, 255);
+	text-shadow: 1px 1.5px rgba(229, 255, 0, 0.778);
+}
+ 
+form {
+	margin-top: 2rem;
+	text-align: center;
+ }
+ 
+
+input[type="text"] {
+	padding: 0.5rem;
+	font-size: 1rem;
+}
+ 
+button {
+	padding: 0.5rem;
+	font-size: rem;
+	background-color: black;
+	color: #fff;
+	border: none;
+}
+	
+#weather {
+	margin-top: 2rem;
+	margin-left: 15rem;
+	margin-right: 15rem;
+	text-align: center;
+	font-size: 1.8rem;
+	color: white;
+	background-color: rgba(137, 43, 226, 0.47);
+	text-shadow: 1px 1px black;
+}
+
+ 
